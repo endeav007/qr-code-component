@@ -1,0 +1,33 @@
+.attribution { font-size: 11px; text-align: center; }
+.attribution a { color: hsl(228, 45%, 44%); }
+
+body{
+   font-family: "outfit", sans-serif; 
+   font-size: 15px;
+   align-items: center;
+}
+
+
+
+
+@media(min-width:700px){
+    
+
+.container{
+    
+    margin: auto;
+    margin-top: 15%;
+    padding: 2em;
+    background-color: red;
+    width: 10em;
+    border-radius: 10px;
+   
+    
+}
+
+.qr-code img{
+    width: 30px;
+}
+
+}
+
